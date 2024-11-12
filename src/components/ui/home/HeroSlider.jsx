@@ -39,7 +39,7 @@ export default function HeroSlider() {
                 </div>
 
                 <div className="w-[512.13px] h-[394.3px]">
-                    <img src="/public/slide_image.png" alt="" className="w-[512.13px] h-[394.3px]" />
+                    <img src="/slide_image.png" alt="" className="w-[512.13px] h-[394.3px]" />
                 </div>
 
             </div>
