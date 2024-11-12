@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <div>
       <nav className="flex gap-[90px] justify-center items-center h-[80px] w-[1199.32px] m-auto pt-6">
-        <img className="w-[107.32px] h-[80px]" src="/public/Logo.png" alt="" />
+        <img className="w-[107.32px] h-[80px]" src="/Logo.png" alt="" />
 
         <div className="flex gap-[32px]">
           <a href="">Home</a>
